@@ -1,4 +1,4 @@
-<img align="right" width="600px" style="margin-top:-20px" src="./images/dev.png">
+<img align="right" width="500px" style="margin-top:-20px" src="./images/dev.png">
 
 <br>
 
