@@ -9,7 +9,7 @@
 
 </div>   
   <div align="center">
-   <h5 align="center">Principais conhecimentos:</h5>
+   <h5 align="center">Principais conhecimentos</h5>
    <div align="center">
     <img alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
