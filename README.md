@@ -44,6 +44,6 @@
 
  <img align="right" width="350px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmI3NTNmODJlMTNkNWRiYWNiZjMxMzFhZDBkOWY1ZTZjM2YxYjc3YSZjdD1z/jdPMeyv9rn0hZHh8n9/giphy.gif">
 
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdcodigo&show_icons=true&theme=vue-dark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdcodigo&show_icons=true&locale=en&theme=vue-dark)
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdcodigo&layout=compact&theme=vue-dark)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=rdcodigo&show_icons=true&locale=en&layout=compact&theme=vue-dark)
